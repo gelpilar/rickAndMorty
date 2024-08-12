@@ -1,0 +1,22 @@
+.fondo_second
+{
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card
+{
+    width: 20rem;
+    height: 20rem;
+    margin: 2rem;
+    background-color: aquamarine;
+    align-content: center;
+}
+
+.img_card{
+width: 5rem;
+}
